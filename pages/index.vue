@@ -1,7 +1,8 @@
 <template>
   <div>
     <h3>Hola desde páginas</h3>
-    {{ estudi }}
+    <prismic-rich-text :field="estudi.data.nom_pagina" />
+
   </div>
 </template>
 
@@ -9,6 +10,6 @@
 
 const { client } = usePrismic()
 
-const { data: estudi } = await useAsyncData('estudi', () => client.getByUID('page', 'estudi'))
-console.log(client);
+const { data: estudi } = await useAsyncData('estudi', () => client.getSingle('estudi'))
+
 </script>
