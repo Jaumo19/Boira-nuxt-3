@@ -1,0 +1,34 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {
+        "servei": [
+          {
+            "type": "paragraph",
+            "text": "Voluptate nulla cillum ad duis ullamco Lorem nostrud deserunt eu ipsum esse qui aute fugiat do. Culpa amet velit id. Proident commodo nulla laborum.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "primary": {
+      "titol_servei": [
+        {
+          "type": "paragraph",
+          "text": "Culpa commodo dolore qui exercitation et. Aliqua ea adipisicing sunt exercitation occaecat sunt ea dolor fugiat.",
+          "spans": []
+        }
+      ],
+      "paragraf_servei": [
+        {
+          "type": "paragraph",
+          "text": "Occaecat consequat Lorem laborum in aliqua elit est culpa.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "servei"
+  }
+]

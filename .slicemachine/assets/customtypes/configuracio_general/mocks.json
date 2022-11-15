@@ -1,0 +1,58 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "configuracio_general",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "slogan": [
+      {
+        "type": "paragraph",
+        "text": "Tempor laborum excepteur magna labore sint laborum sint aliqua dolore esse exercitation voluptate aliquip laboris sint.",
+        "spans": []
+      }
+    ],
+    "scroll": [
+      {
+        "type": "paragraph",
+        "text": "Excepteur amet culpa commodo. Laboris consectetur duis consectetur et esse nostrud duis.",
+        "spans": []
+      }
+    ],
+    "contacta": [
+      {
+        "type": "paragraph",
+        "text": "Enim sint cillum culpa tempor irure excepteur quis est dolor qui ad.",
+        "spans": []
+      }
+    ],
+    "heading_footer": [
+      {
+        "type": "paragraph",
+        "text": "Aute tempor do Lorem voluptate non commodo fugiat irure.",
+        "spans": []
+      }
+    ],
+    "paragraf_footer": [
+      {
+        "type": "paragraph",
+        "text": "Quis nulla cillum aute officia sit magna sit pariatur culpa quis anim irure.",
+        "spans": []
+      }
+    ],
+    "copyright": [
+      {
+        "type": "paragraph",
+        "text": "Officia veniam qui Lorem anim aliquip laboris mollit cupidatat veniam ut dolor quis eiusmod culpa. Exercitation elit enim laborum.",
+        "spans": []
+      }
+    ],
+    "slices": []
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "link": [
+        {
+          "type": "paragraph",
+          "text": "Esse nisi laboris ullamco ullamco magna. Magna cillum sunt amet elit qui irure eu excepteur adipisicing et qui excepteur officia.",
+          "spans": []
+        }
+      ],
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Ipsum do cupidatat labore mollit in. Aliqua cupidatat commodo non dolor sit sint ex adipisicing veniam est cupidatat ea esse laborum aliquip. Eu cupidatat sunt minim sit.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "contacte"
+  }
+]

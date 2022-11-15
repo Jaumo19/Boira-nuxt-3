@@ -1,0 +1,75 @@
+{
+  "id": "config_general",
+  "label": "Conf General",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "slogan": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Slogan",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "scroll": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Scroll",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "contacta": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Contacta",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "heading_footer": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Heading Footer",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "paragraf_footer": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Paràgraf Footer",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "copyright": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Copyright",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "contacte": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

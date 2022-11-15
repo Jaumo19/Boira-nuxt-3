@@ -1,0 +1,51 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "proyecto",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "titol": [
+      {
+        "type": "paragraph",
+        "text": "Sit ea ullamco veniam irure Lorem officia pariatur ad veniam mollit. Amet dolore laboris in non amet sunt.",
+        "spans": []
+      }
+    ],
+    "client": [
+      {
+        "type": "paragraph",
+        "text": "Non reprehenderit adipisicing anim laboris est qui tempor veniam.",
+        "spans": []
+      }
+    ],
+    "descripcio": [
+      {
+        "type": "paragraph",
+        "text": "Irure laborum enim duis eu ullamco enim labore. Do aliqua ea ullamco nostrud enim veniam.",
+        "spans": []
+      }
+    ],
+    "any": [
+      {
+        "type": "paragraph",
+        "text": "Incididunt culpa dolore reprehenderit. Ut eu id sint nulla aliqua aliquip non Lorem. Esse do magna mollit ex id ullamco cupidatat ut ipsum labore reprehenderit dolor.",
+        "spans": []
+      }
+    ],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Non adipisicing fugiat proident anim eu reprehenderit ad culpa.",
+        "spans": []
+      }
+    ],
+    "slices": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "cooperativa",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "nom_pagina": [
+      {
+        "type": "paragraph",
+        "text": "Lorem incididunt elit non Lorem incididunt dolore Lorem ut tempor deserunt nulla. Lorem nostrud ad occaecat reprehenderit adipisicing consequat. Eu id in exercitation.",
+        "spans": []
+      }
+    ],
+    "heading_homepage": [
+      {
+        "type": "paragraph",
+        "text": "Pariatur elit commodo excepteur pariatur.",
+        "spans": []
+      }
+    ],
+    "paragraf_homepage": [
+      {
+        "type": "paragraph",
+        "text": "Consectetur deserunt dolore reprehenderit exercitation aute cupidatat proident deserunt sunt tempor exercitation cupidatat. Non irure ex est. Laboris exercitation exercitation ex exercitation aliqua ex velit.",
+        "spans": []
+      }
+    ],
+    "heading_detall": [
+      {
+        "type": "paragraph",
+        "text": "Officia sit eu ipsum commodo.",
+        "spans": []
+      }
+    ],
+    "paragraf_detall": [
+      {
+        "type": "paragraph",
+        "text": "Elit ullamco in duis deserunt Lorem aliqua amet pariatur do officia adipisicing. Adipisicing ipsum labore id ad Lorem non reprehenderit velit dolore.",
+        "spans": []
+      }
+    ],
+    "heading_qui_som": [
+      {
+        "type": "paragraph",
+        "text": "Aute sint elit quis incididunt amet ex eu amet enim nisi reprehenderit cillum sint aliquip culpa. Ullamco in enim eiusmod est officia voluptate esse laboris et ipsum adipisicing eu ea in id. Ad ex dolore exercitation qui cupidatat adipisicing aute et est.",
+        "spans": []
+      }
+    ],
+    "slices": []
+  }
+}

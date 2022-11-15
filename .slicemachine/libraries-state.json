@@ -1,0 +1,321 @@
+{
+  "slices": {
+    "components": {
+      "contacte": {
+        "library": "slices",
+        "id": "contacte",
+        "name": "Contacte",
+        "description": "Contacte",
+        "model": {
+          "id": "contacte",
+          "type": "SharedSlice",
+          "name": "Contacte",
+          "description": "Contacte",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "Contacte",
+              "primary": {
+                "link": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Link",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                  }
+                },
+                "text": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Text",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                  }
+                }
+              },
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "version": "sktwi1xtmkfgx8626",
+            "items": [
+              {}
+            ],
+            "primary": {
+              "link": [
+                {
+                  "type": "paragraph",
+                  "text": "Esse nisi laboris ullamco ullamco magna. Magna cillum sunt amet elit qui irure eu excepteur adipisicing et qui excepteur officia.",
+                  "spans": []
+                }
+              ],
+              "text": [
+                {
+                  "type": "paragraph",
+                  "text": "Ipsum do cupidatat labore mollit in. Aliqua cupidatat commodo non dolor sit sint ex adipisicing veniam est cupidatat ea esse laborum aliquip. Eu cupidatat sunt minim sit.",
+                  "spans": []
+                }
+              ]
+            },
+            "slice_type": "contacte"
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "vue"
+        },
+        "screenshotPaths": {}
+      },
+      "imatges": {
+        "library": "slices",
+        "id": "imatges",
+        "name": "Imatges",
+        "description": "Imatges",
+        "model": {
+          "id": "imatges",
+          "type": "SharedSlice",
+          "name": "Imatges",
+          "description": "Imatges",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "Imatges",
+              "primary": {},
+              "items": {
+                "img": {
+                  "type": "Image",
+                  "config": {
+                    "label": "Img",
+                    "constraint": {},
+                    "thumbnails": []
+                  }
+                }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "version": "sktwi1xtmkfgx8626",
+            "items": [
+              {
+                "img": {
+                  "dimensions": {
+                    "width": 900,
+                    "height": 500
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da"
+                }
+              }
+            ],
+            "primary": {},
+            "slice_type": "imatges"
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "vue"
+        },
+        "screenshotPaths": {}
+      },
+      "nosaltres": {
+        "library": "slices",
+        "id": "nosaltres",
+        "name": "Nosaltres",
+        "description": "Nosaltres",
+        "model": {
+          "id": "nosaltres",
+          "type": "SharedSlice",
+          "name": "Nosaltres",
+          "description": "Nosaltres",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "Nosaltres",
+              "primary": {
+                "nom": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Nom",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                  }
+                },
+                "carrec": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Carrec",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                  }
+                },
+                "paragraf": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Paràgraf",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                  }
+                }
+              },
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "version": "sktwi1xtmkfgx8626",
+            "items": [
+              {}
+            ],
+            "primary": {
+              "nom": [
+                {
+                  "type": "paragraph",
+                  "text": "Laboris occaecat minim sit cupidatat Lorem adipisicing nulla aliqua ad cupidatat sit est ea. Sunt ad ad amet labore laborum sint mollit minim laboris et reprehenderit.",
+                  "spans": []
+                }
+              ],
+              "carrec": [
+                {
+                  "type": "paragraph",
+                  "text": "Aliquip mollit nostrud nisi dolore pariatur dolore consectetur fugiat ut. Nisi commodo velit minim nulla et. Anim do eiusmod dolor commodo elit ex tempor cillum occaecat.",
+                  "spans": []
+                }
+              ],
+              "paragraf": [
+                {
+                  "type": "paragraph",
+                  "text": "Aute ut commodo esse Lorem elit officia officia proident ea laborum qui.",
+                  "spans": []
+                }
+              ]
+            },
+            "slice_type": "nosaltres"
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "vue"
+        },
+        "screenshotPaths": {}
+      },
+      "servei": {
+        "library": "slices",
+        "id": "servei",
+        "name": "Servei",
+        "description": "Servei",
+        "model": {
+          "id": "servei",
+          "type": "SharedSlice",
+          "name": "Servei",
+          "description": "Servei",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "Servei",
+              "primary": {
+                "titol_servei": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Titol Servei",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                  }
+                },
+                "paragraf_servei": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Paràgraf Servei",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                  }
+                }
+              },
+              "items": {
+                "servei": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Servei",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                  }
+                }
+              },
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "version": "sktwi1xtmkfgx8626",
+            "items": [
+              {
+                "servei": [
+                  {
+                    "type": "paragraph",
+                    "text": "Voluptate nulla cillum ad duis ullamco Lorem nostrud deserunt eu ipsum esse qui aute fugiat do. Culpa amet velit id. Proident commodo nulla laborum.",
+                    "spans": []
+                  }
+                ]
+              }
+            ],
+            "primary": {
+              "titol_servei": [
+                {
+                  "type": "paragraph",
+                  "text": "Culpa commodo dolore qui exercitation et. Aliqua ea adipisicing sunt exercitation occaecat sunt ea dolor fugiat.",
+                  "spans": []
+                }
+              ],
+              "paragraf_servei": [
+                {
+                  "type": "paragraph",
+                  "text": "Occaecat consequat Lorem laborum in aliqua elit est culpa.",
+                  "spans": []
+                }
+              ]
+            },
+            "slice_type": "servei"
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "vue"
+        },
+        "screenshotPaths": {}
+      }
+    }
+  }
+}

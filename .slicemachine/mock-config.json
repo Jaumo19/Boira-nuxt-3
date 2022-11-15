@@ -1,0 +1,33 @@
+{
+  "_cts": {
+    "estudi": {},
+    "cooperativa": {},
+    "pagina_projectes": {},
+    "configuracio_general": {},
+    "titulo": {},
+    "proyecto": {}
+  },
+  "slices": {
+    "Servei": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "Nosaltres": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Contacte": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Imatges": {
+      "default": {
+        "primary": {}
+      }
+    }
+  }
+}

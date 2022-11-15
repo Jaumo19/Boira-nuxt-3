@@ -1,0 +1,36 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "pagina_projectes",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "nom_pagina": [
+      {
+        "type": "paragraph",
+        "text": "Ad quis deserunt duis incididunt mollit anim.",
+        "spans": []
+      }
+    ],
+    "heading_detall": [
+      {
+        "type": "paragraph",
+        "text": "Tempor cillum ipsum tempor irure est eu irure sit laboris esse labore id nostrud mollit. Sunt reprehenderit aute consectetur qui ea quis nostrud ut. Amet ea occaecat excepteur eiusmod aliqua.",
+        "spans": []
+      }
+    ],
+    "paragraf_detall": [
+      {
+        "type": "paragraph",
+        "text": "Cupidatat minim minim aliqua qui ex anim ea. Reprehenderit velit incididunt voluptate elit adipisicing ea dolore consectetur quis cillum adipisicing ipsum laboris mollit commodo. Ad deserunt anim qui fugiat ullamco.",
+        "spans": []
+      }
+    ]
+  }
+}

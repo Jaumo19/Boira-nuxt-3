@@ -1,0 +1,66 @@
+{
+  "id": "proyecto",
+  "label": "Proyecto",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "titol": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Titol",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "client": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Client",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "descripcio": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Descripcio",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "any": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Any",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "body": {
+        "type": "StructuredText",
+        "config": {
+          "label": "body",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "imatges": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

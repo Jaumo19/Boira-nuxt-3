@@ -1,0 +1,72 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "estudi",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "nom_pagina": [
+      {
+        "type": "paragraph",
+        "text": "Labore tempor minim tempor qui reprehenderit ut incididunt aute dolor irure voluptate adipisicing in. Reprehenderit ex cillum ad voluptate duis pariatur quis et do sunt quis incididunt sit officia.",
+        "spans": []
+      }
+    ],
+    "heading_homepage": [
+      {
+        "type": "paragraph",
+        "text": "Est quis incididunt adipisicing ipsum ex do laboris consequat velit consequat esse.",
+        "spans": []
+      }
+    ],
+    "paragraf_homepage": [
+      {
+        "type": "paragraph",
+        "text": "Consectetur aliqua ipsum qui minim.",
+        "spans": []
+      }
+    ],
+    "heading_detall": [
+      {
+        "type": "paragraph",
+        "text": "Proident culpa anim laboris nisi mollit aliqua qui aliquip eu et sit ullamco ullamco ipsum ut.",
+        "spans": []
+      }
+    ],
+    "paragraf_detall": [
+      {
+        "type": "paragraph",
+        "text": "Ullamco laboris minim qui ullamco eiusmod fugiat commodo Lorem. Qui eu Lorem et irure amet non ad nulla id ea fugiat. Esse deserunt ad anim ad nostrud.",
+        "spans": []
+      }
+    ],
+    "heading_serveis": [
+      {
+        "type": "paragraph",
+        "text": "Nulla enim ullamco proident ut labore dolor nisi amet occaecat incididunt elit id dolor. Ut dolor et nisi magna magna duis do amet et reprehenderit aute.",
+        "spans": []
+      }
+    ],
+    "heading_clients": [
+      {
+        "type": "paragraph",
+        "text": "Anim proident incididunt aliqua quis dolor ad veniam. Officia incididunt irure mollit ullamco irure anim pariatur aliquip sunt id aliquip amet veniam deserunt mollit.",
+        "spans": []
+      }
+    ],
+    "paragraf_clients": [
+      {
+        "type": "paragraph",
+        "text": "Laboris et proident in in laborum ea reprehenderit tempor est voluptate laborum anim. Ut consectetur deserunt laborum aute minim consequat minim fugiat ea qui in.",
+        "spans": []
+      }
+    ],
+    "slices": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "estudi",
+  "label": "Estudi",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "nom_pagina": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Nom Pàgina",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "heading_homepage": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Heading Homepage",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "paragraf_homepage": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Paràgraf Homepage",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "heading_detall": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Heading Detall",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "paragraf_detall": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Paràgraf Detall",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "heading_serveis": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Heading Serveis",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "heading_clients": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Heading Clients",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "paragraf_clients": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Paràgraf Clients",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "servei": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}
